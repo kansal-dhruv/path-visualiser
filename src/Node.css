@@ -1,0 +1,25 @@
+.node{
+    display: inline-block;
+    float: none;
+    border: 1px solid;
+    height: 20px;
+    width: 20px;
+    line-height: 1;
+    vertical-align: top;
+}
+.src
+{
+    background-color: green;
+}
+.dst{
+    background-color: red;
+}
+.visited{
+    background-color: blue;
+}
+.path{
+    background-color: black;
+}
+.wall{
+    background-color: gray;
+}
